@@ -1,0 +1,11 @@
+{
+    "name": "davispuh/php-utils",
+    "description": "PHP Utils",
+    "type": "library",
+    "keywords": ["utils", "functions"],
+    "homepage": "https://github.com/davispuh/PHP-Utils",
+    "license": "UNLICENSE",
+    "autoload": {
+        "psr-0": { "Utilities": "" }
+    }
+}
