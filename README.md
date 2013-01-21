@@ -3,8 +3,16 @@
 Several PHP functions.
 Hopefully will be useful for someone...
 
+**Table of Contents**
+
+- [Implemented functions](#implemented-functions)
+- [Authors](#authors)
+- [Unlicense](#unlicense)
+- [Contribute](#contribute)
+
 ## Implemented functions
 
+`Utilities.php`
 * `Utilities::RemoveDoubleWhitespace($Text)`
 * `Utilities::ShiftLeft($Number, $Bits)`
 * `Utilities::ShiftRight($Number, $Bits)`
@@ -43,7 +51,11 @@ It means you can copy, modify, distribute and include in your own work/code, eve
 
 ## Contribute
 
-Warning: By sending pull request to this repository you dedicate any and all copyright interest in pull request (code files and all other) to the public domain. (files will be in public domain even if pull request doesn't get merged)
+Feel free to improve existing functions or add new ones which might be usefull.
+
+
+**Warning**: By sending pull request to this repository you dedicate any and all copyright interest in pull request (code files and all other) to the public domain. (files will be in public domain even if pull request doesn't get merged)
+
 Also before sending pull request you acknowledge that you own all copyrights or have authorization to dedicate them to public domain.
 
 If you don't want to dedicate code to public domain or if you're not allowed to (eg. you don't own required copyrights) then DON'T send pull request.
