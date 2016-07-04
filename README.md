@@ -13,6 +13,7 @@ Hopefully will be useful for someone...
 ## Implemented functions
 
 `Utilities.php`
+
 * `Utilities::RemoveDoubleWhitespace($Text)`
 * `Utilities::ShiftLeft($Number, $Bits)`
 * `Utilities::ShiftRight($Number, $Bits)`
